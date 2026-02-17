@@ -2,7 +2,7 @@
 
 I'm a high school senior pursuing computer science in univeristy! I'm passionate about learning software development and systems for real-world application. Beyond CS, I love everything about motorsports! I enjoy doing puzzles and logic games in my free time.
 
-- 🔭 I’m currently working on figuring out which university I'm off to
+- 🔭 I’m currently working on finishing my senior year of high school
 - 🌱 I’m currently learning MST algorithms and advanced BSTs.
 - ⚡ Fun fact: I've almost drowned.
 
