@@ -3,6 +3,4 @@
 I'm a first-year at UVA Engineering preparing to study computer science! I'm passionate about learning software development and systems for real-world application. Beyond CS, I love everything about motorsports! I enjoy doing puzzles and logic games in my free time.
 
 - 🔭 I’m currently working on moving in...
-- 🌱 I just finished a low-level Go AI.
 - ⚡ Fun fact: I've almost drowned.
-- 📚 Currently reading *The Dating Blueprint* by Jason Evert
